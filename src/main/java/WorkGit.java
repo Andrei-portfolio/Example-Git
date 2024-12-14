@@ -118,7 +118,7 @@ public class WorkGit {
             мышью на этот знак, будет написано терминал):
 
         ЧТО БЫЛО В ТЕРМИНАЛЕ:
-        PS C:\Users\User\IdeaProjects\untitled1>
+        PS C:\Users\User\IdeaProjects\ untitled1>
 
         ЧТО ВСТАВЛЯЕМ ПООЧЕРЕДНО В ТЕРМИНАЛ, ПОСЛЕ ТОГО, ЧТО НАПИСАНО ВЫШЕ
         (сначала 1ю строку, далее Enter. 2ю - Enter, 3ю - Enter):
